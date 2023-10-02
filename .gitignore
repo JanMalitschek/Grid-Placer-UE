@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Source/GridPlacer/Private/Tools/GridPlacerInteractiveTool.cpp
+Source/GridPlacer/Private/Tools/GridPlacerInteractiveTool.h
+Source/GridPlacer/Private/Tools/GridPlacerSimpleTool.cpp
+Source/GridPlacer/Private/Tools/GridPlacerSimpleTool.h
